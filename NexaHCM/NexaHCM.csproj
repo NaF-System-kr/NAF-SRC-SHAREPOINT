@@ -2,8 +2,8 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net472</TargetFramework>
-    <RootNamespace>Net472ConsoleApp</RootNamespace>
-    <AssemblyName>Net472ConsoleApp</AssemblyName>
+    <RootNamespace>NexaHCM</RootNamespace>
+    <AssemblyName>NexaHCM</AssemblyName>
     <LangVersion>latest</LangVersion>
   </PropertyGroup>
 </Project>
